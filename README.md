@@ -3,6 +3,6 @@ Here are a couple of my projects (there will be more to come). These aren’t ju
 
 • [Study Navigator](https://pupupu...)(polishing) A tool for UTM students to find a free room to study, or see a schedule for any courses
 
-• Subway Map for Toronto (Android App) A handy, good-looking tool for navigating the Toronto subway
+• [Subway Map for Toronto](https://github.com/AbrIdGusb/UnderMap) (Android App) A handy, good-looking tool for navigating the Toronto subway
 
 • You can also take a look at my [Portfolio](https://kalachev-f601d.web.app) (there are pictures)
